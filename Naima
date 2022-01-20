@@ -1,0 +1,74 @@
+<?php
+// echo "For compare two variable:  ";
+// $result= 5;
+
+// if ($result < 1)
+
+// {echo "failed";}
+
+// else 
+// {echo "Passed";}"<br>"
+
+
+// echo "For compare many variable:  ";
+
+// $day = "sun";
+
+// if ($day == "fri")
+// {echo "Today is friday";}
+//  elseif ($day== "mon")
+//  {echo "Today is monday";}
+//  elseif ($day=="sun")
+//  {echo "Today is sunday";}
+//  elseif ($day=="sat")
+//  { echo "Today is saturday";}
+// else 
+// {echo "Not match try again later";}
+// echo" <br><br>";
+
+//echo" For 'forloop' : ";
+//$studentlist = array('Naima','Eva','Ifty','Emon');
+//$numstudent = count($studentlist);
+
+//for ($i=0 ; $i < ($numstudent); $i++)
+ 
+ //{ echo " $studentlist . is a good student";}
+
+//echo"for 'Whileloop'  :'
+
+//$num = 0;
+//while ($num <= 10)
+//{ echo " This number is : $num  <br>";
+//$num++;}
+
+
+// echo "For the switch function:";
+// $day= "fri";
+//  switch($day);
+//  { case "fri";
+//     echo "today is friday";
+//     break;
+//     case 'sat';
+//         echo "today is saturday;"
+//         break;
+//         case 'sun';
+//             echo "today is sunday;"
+//             break;
+//             case 'mon';
+//                 echo "today is monday;"
+//                 break;
+//                 case 'tues';
+//                     echo "today is tuesday;"
+//                     break;
+//                     default
+//                     echo" wrong day";
+//                     break;
+
+ echo"for do while loop: <br>";
+                    $num=0;
+                     do {echo "i love bd <br>"; 
+                        $num++;}
+
+while ($num < 20);
+{echo "i dont love php <br>";
+$num++;}
